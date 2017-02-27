@@ -1,0 +1,15 @@
+.icon {
+  display: inline-block;
+  background-color: transparent none no-repeat center center;
+  background-size: contain;
+  vertical-align: middle;
+}
+
+.i-64 {
+  height: 64px;
+  width: 64px;
+}
+
+a {
+  color: #000;
+}
